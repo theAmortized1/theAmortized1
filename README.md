@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Debashis Mahapatra 👋
+**Software Engineer** · 11+ years building scalable backend services and data-driven systems
+📍 Austin, TX · Open to all locations
 
-<!--
-**theAmortized1/theAmortized1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I do
+- Design and ship Java, Scala, and Python services and REST APIs on cloud platforms
+- Microservices, middleware, and SQL/NoSQL data modeling
+- Currently building hands-on projects in ad tech and GenAI (RAG, ML pipelines)
 
-Here are some ideas to get you started:
+## Featured projects
+- 🚧 **Ad delivery & budget-pacing service**: simulated ad auction with
+  concurrency-safe budget pacing (Java, Spring Boot, Postgres, Redis). *In progress*
+- 🚧 **Campaign insights assistant**: RAG-based Q&A over campaign performance
+  data, with a measured evaluation (Python, FastAPI). *In progress*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+**Languages:** Java · Python · Scala · SQL
+**Backend & APIs:** Spring Boot · FastAPI · REST/OpenAPI · Microservices
+**Database & Messaging:** PostgreSQL · NoSQL · Redis · Kafka · AWS Database services
+**Cloud & DevOps:** AWS · Docker · Kubernetes · Terraform · GitHub Actions (CI/CD)
+**GenAI:** RAG · LLM APIs · Vector search · Evaluation
+
+## Connect
+https://www.linkedin.com/in/debashis-mahapatra05
